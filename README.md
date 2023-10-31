@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 
 #### 
-site is live at [https://jehuna.github.io/Calculator_with_React/]{https://jehuna.github.io/Calculator_with_React/}
+site is live at [https://jehuna.github.io/Calculator_with_React/](https://jehuna.github.io/Calculator_with_React/)
 
 
 
